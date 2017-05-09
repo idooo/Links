@@ -11,3 +11,4 @@ Just the way I store links
 ## Things
 
 - https://learnxinyminutes.com/
+- https://learningmusic.ableton.com/
