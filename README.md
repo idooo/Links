@@ -9,6 +9,10 @@ Just the way I store links
 - [Introduction to K-means Clustering](https://www.datascience.com/blog/introduction-to-k-means-clustering-algorithm-learn-data-science-tutorials)
 - [Learn TensorFlow and deep learning, without a Ph.D](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
+
+## Management
+- [12 manager readmes](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+
 ## Things
 
 - https://learnxinyminutes.com/
