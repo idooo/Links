@@ -13,6 +13,7 @@ Just the way I store links
 
 ## Management
 - [12 manager readmes](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
+- "As a CTO, my default loop is "First, cycle through all my employees and make sure that I have equipped them to be happy and productive in their jobs. Second, find something to do. If possible, delegate it; if not, do it. Repeat."
 
 ## Things
 
