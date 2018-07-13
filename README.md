@@ -18,6 +18,19 @@ Just the way I store links
 - "As a CTO, my default loop is "First, cycle through all my employees and make sure that I have equipped them to be happy and productive in their jobs. Second, find something to do. If possible, delegate it; if not, do it. Repeat."
 - [Manager guide](https://getweeklyupdate.com/manager-guide)
 - [Performance reviews](https://blog.bradfieldcs.com/performance-reviews-are-a-waste-of-time-87c88d7553b4) - "If anything in your performance review is a surprise, then I have failed as a manager."
+- [Ask HN: As a team lead how to handle project going off the rails?](https://news.ycombinator.com/item?id=17511850)
+... Assess the product delivery in terms of risks. Look at what's on the roadmap and build a 2x2 matrix of the intended features.
+Get some post-its and write down each feature. Organized on the 2x2 with these axes X: "risk/complexity" Y:"desirability" (that's business & customer desirability.)...
+```
+         Necessary
+             ^
+             |
+  Simple <---+---> Complex
+             |
+             V
+        Nice to have
+```
+
 
 ## Things
 
