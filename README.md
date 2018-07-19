@@ -33,6 +33,9 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [The 4 questions you should stop asking during your one-on-one meetings](https://m.signalvnoise.com/the-4-questions-you-should-stop-asking-during-your-one-on-one-meetings-ed7431da11aa)
 
 
+## Pubcic speaking
+- [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
+
 ## Things
 
 - https://learnxinyminutes.com/
