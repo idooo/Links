@@ -6,10 +6,6 @@ Just the way I store links
 - [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 - [Questions to ask on YOUR interview](https://medium.com/@cvitullo/questions-to-ask-your-interviewer-development-and-emergencies-f7fbc4519e5b)
 
-## Data science, ML
-- [Introduction to K-means Clustering](https://www.datascience.com/blog/introduction-to-k-means-clustering-algorithm-learn-data-science-tutorials)
-- [Learn TensorFlow and deep learning, without a Ph.D](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
-
 ## Databases
 - [How to GraphQL](https://www.howtographql.com/)
 
@@ -36,7 +32,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
 
-## Things
+## Other Things
 
 - https://learnxinyminutes.com/
 - https://learningmusic.ableton.com/
