@@ -5,6 +5,7 @@ Just the way I store links
 - [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 - [Questions to ask on YOUR interview](https://medium.com/@cvitullo/questions-to-ask-your-interviewer-development-and-emergencies-f7fbc4519e5b)
+- [What to say when recruiters ask you to name the first number ](https://news.ycombinator.com/item?id=17776596)
 
 ## Databases
 - [How to GraphQL](https://www.howtographql.com/)
