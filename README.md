@@ -37,3 +37,10 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 
 - https://learnxinyminutes.com/
 - https://learningmusic.ableton.com/
+
+# New Age Politics
+
+## Other startups
+- https://www.tbd.community/en/a/tech-startups-improving-uk-political-system
+- https://democracyclub.org.uk/report_2018/
+
