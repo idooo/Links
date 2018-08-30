@@ -44,3 +44,5 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - https://www.tbd.community/en/a/tech-startups-improving-uk-political-system
 - https://democracyclub.org.uk/report_2018/
 
+## Articles
+- http://strikemag.org/capitalist-realism-is-there-still-no-alternative
