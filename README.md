@@ -30,7 +30,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [The 4 questions you should stop asking during your one-on-one meetings](https://m.signalvnoise.com/the-4-questions-you-should-stop-asking-during-your-one-on-one-meetings-ed7431da11aa)
 - [How to fail as a new engineering manager](https://news.ycombinator.com/item?id=18011381)
 - [Ask HN: What made your favorite manager/supervisor/CEO so great?](https://news.ycombinator.com/item?id=18021782)
-
+- [How to Become a Better Software Developer: A Handbook on Personal Performance](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
