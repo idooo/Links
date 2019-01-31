@@ -6,6 +6,7 @@ Just the way I store links
 - [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
 - [Questions to ask on YOUR interview](https://medium.com/@cvitullo/questions-to-ask-your-interviewer-development-and-emergencies-f7fbc4519e5b)
 - [What to say when recruiters ask you to name the first number ](https://news.ycombinator.com/item?id=17776596)
+- [Ask HN: Top three questions for a startup before accepting a job offer?](https://news.ycombinator.com/item?id=19048108)
 
 ## Databases
 - [How to GraphQL](https://www.howtographql.com/)
