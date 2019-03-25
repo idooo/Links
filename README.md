@@ -33,6 +33,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Ask HN: What made your favorite manager/supervisor/CEO so great?](https://news.ycombinator.com/item?id=18021782)
 - [How to Become a Better Software Developer: A Handbook on Personal Performance](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
 - [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
+- [Dev-To-Manager](https://devtomanager.com/)
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
