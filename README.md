@@ -35,6 +35,8 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 - [Dev-To-Manager](https://devtomanager.com/)
 - [A guide to difficult conversations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
+- [The compass and the map](https://seths.blog/2019/04/the-compass-and-the-map/) - "If you’ve got the wrong map, the right compass will get you home if you know how to use it."
+- [The five types of communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/)
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
