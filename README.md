@@ -37,20 +37,17 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [A guide to difficult conversations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
 - [The compass and the map](https://seths.blog/2019/04/the-compass-and-the-map/) - "If you’ve got the wrong map, the right compass will get you home if you know how to use it."
 - [The five types of communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/)
+- [How to Size and Assess Teams](https://firstround.com/review/how-to-size-and-assess-teams-from-an-eng-lead-at-stripe-uber-and-digg/)
+- [How to invest in technical infrastructure](https://lethain.com/how-to-invest-technical-infrastructure/)
+```
+               Forced
+                 ^
+                 |
+  Short-term <---+---> Long-term
+                 |
+                 V
+            Discretionary
+```
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
-
-## Other Things
-
-- https://learnxinyminutes.com/
-- https://learningmusic.ableton.com/
-
-# New Age Politics
-
-## Other startups
-- https://www.tbd.community/en/a/tech-startups-improving-uk-political-system
-- https://democracyclub.org.uk/report_2018/
-
-## Articles
-- http://strikemag.org/capitalist-realism-is-there-still-no-alternative
