@@ -51,3 +51,6 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
+
+## Mentoring
+- [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
