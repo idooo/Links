@@ -39,7 +39,6 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [The five types of communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/)
 - [How to Size and Assess Teams](https://firstround.com/review/how-to-size-and-assess-teams-from-an-eng-lead-at-stripe-uber-and-digg/)
 - [How to invest in technical infrastructure](https://lethain.com/how-to-invest-technical-infrastructure/)
-- [sk HN: What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133)
 ```
                Forced
                  ^
@@ -49,6 +48,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
                  V
             Discretionary
 ```
+- [Ask HN: What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133)
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
