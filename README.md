@@ -12,6 +12,7 @@ Just the way I store links
 - [How to GraphQL](https://www.howtographql.com/)
 
 ## Management
+- [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
 - [12 manager readmes](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 - "As a CTO, my default loop is "First, cycle through all my employees and make sure that I have equipped them to be happy and productive in their jobs. Second, find something to do. If possible, delegate it; if not, do it. Repeat."
 - [Manager guide](https://getweeklyupdate.com/manager-guide)
