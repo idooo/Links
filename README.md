@@ -7,10 +7,7 @@ Just the way I store links
 - [Questions to ask on YOUR interview](https://medium.com/@cvitullo/questions-to-ask-your-interviewer-development-and-emergencies-f7fbc4519e5b)
 - [What to say when recruiters ask you to name the first number ](https://news.ycombinator.com/item?id=17776596)
 - [Ask HN: Top three questions for a startup before accepting a job offer?](https://news.ycombinator.com/item?id=19048108)
-
-## Databases
-- [How to GraphQL](https://www.howtographql.com/)
-
+ 
 ## Management
 - [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
 - [12 manager readmes](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
@@ -50,6 +47,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
             Discretionary
 ```
 - [Ask HN: What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133)
+- [Working the Weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
