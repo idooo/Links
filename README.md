@@ -49,6 +49,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 ```
 - [Ask HN: What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133)
 - [Working the Weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
+- [Increasing Engineering Tempo at Splice](https://speakerdeck.com/buritica/increasing-engineering-tempo-at-splice)
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
