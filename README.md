@@ -30,7 +30,6 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [The 4 questions you should stop asking during your one-on-one meetings](https://m.signalvnoise.com/the-4-questions-you-should-stop-asking-during-your-one-on-one-meetings-ed7431da11aa)
 - [How to fail as a new engineering manager](https://news.ycombinator.com/item?id=18011381)
 - [Ask HN: What made your favorite manager/supervisor/CEO so great?](https://news.ycombinator.com/item?id=18021782)
-- [How to Become a Better Software Developer: A Handbook on Personal Performance](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
 - [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
 - [Dev-To-Manager](https://devtomanager.com/)
 - [A guide to difficult conversations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
@@ -56,3 +55,4 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 
 ## Mentoring
 - [7 absolute truths I unlearned as junior developer](https://monicalent.com/blog/2019/06/03/absolute-truths-unlearned-as-junior-developer/)
+- [How to Become a Better Software Developer: A Handbook on Personal Performance](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
