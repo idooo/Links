@@ -49,6 +49,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Ask HN: What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133)
 - [Working the Weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
 - [Increasing Engineering Tempo at Splice](https://speakerdeck.com/buritica/increasing-engineering-tempo-at-splice)
+- "At the end it's the question about money and passion. We have zero passion to support IE11 so it's all about money. We suggested to estimate a monetary value of supporting IE11. The idea behind is to find values for this simple formula: (cost of support) + (opportunity cost) - (profit) - (reputation cost)"
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
