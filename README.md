@@ -60,3 +60,4 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Ten Principles for Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b)
 - [Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
 - [How to Learn Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
+- [How to sleep at night having a cloud service: common Architecture Do's](https://danielsada.tech/blog/cloud-services-dos/)
