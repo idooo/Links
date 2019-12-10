@@ -62,3 +62,4 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [How to Learn Software Design and Architecture](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
 - [How to sleep at night having a cloud service: common Architecture Do's](https://danielsada.tech/blog/cloud-services-dos/)
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
+- [Ask HN: How to improve code quality while maintaining decent velocity?](https://news.ycombinator.com/item?id=21730125)
