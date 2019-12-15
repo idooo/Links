@@ -63,3 +63,9 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [How to sleep at night having a cloud service: common Architecture Do's](https://danielsada.tech/blog/cloud-services-dos/)
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Ask HN: How to improve code quality while maintaining decent velocity?](https://news.ycombinator.com/item?id=21730125)
+- [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) by Dan Abramov
+```
+- Even your favorite developers may not know many things that you know.
+- Regardless of your knowledge level, your confidence can vary greatly.
+- Experienced developers have valuable expertise despite knowledge gaps.
+```
