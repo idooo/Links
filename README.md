@@ -50,6 +50,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Working the Weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
 - [Increasing Engineering Tempo at Splice](https://speakerdeck.com/buritica/increasing-engineering-tempo-at-splice)
 - "At the end it's the question about money and passion. We have zero passion to support IE11 so it's all about money. We suggested to estimate a monetary value of supporting IE11. The idea behind is to find values for this simple formula: (cost of support) + (opportunity cost) - (profit) - (reputation cost)"
+- [Hopefully fair performance reviews for software developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
