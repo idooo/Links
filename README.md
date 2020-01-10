@@ -8,6 +8,7 @@ Just the way I store links
 - [Questions to ask on YOUR interview](https://medium.com/@cvitullo/questions-to-ask-your-interviewer-development-and-emergencies-f7fbc4519e5b)
 - [What to say when recruiters ask you to name the first number ](https://news.ycombinator.com/item?id=17776596)
 - [Ask HN: Top three questions for a startup before accepting a job offer?](https://news.ycombinator.com/item?id=19048108)
+- [FAANG hiring managers share how to answer behavioral interview questions](https://www.beseen.com/blog/talent/faang-managers-answer-interview-questions/)
  
 ## Management
 - [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
