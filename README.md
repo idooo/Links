@@ -52,6 +52,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Increasing Engineering Tempo at Splice](https://speakerdeck.com/buritica/increasing-engineering-tempo-at-splice)
 - "At the end it's the question about money and passion. We have zero passion to support IE11 so it's all about money. We suggested to estimate a monetary value of supporting IE11. The idea behind is to find values for this simple formula: (cost of support) + (opportunity cost) - (profit) - (reputation cost)"
 - [Hopefully fair performance reviews for software developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
+- [A typology of organisational cultures](https://qualitysafety.bmj.com/content/13/suppl_2/ii22) "The underlying idea is that leaders, by their preoccupations, shape a unit’s culture. Through their symbolic actions, as well as rewards and punishments, leaders communicate what they feel is important. These preferences then becomethe preoccupation of the organisation’s workforce, because rewards, punishments, and resources follow the leader’s preferences. Those who align with the preferences will be rewarded, and those who do not will be set aside. Most longtime organisation members instinctively know how to readthe signs of the times and those who do not soon get expensive lessons." and "The most critical issue for organisational safety is the flow of information"
 
 ## Pubcic speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
