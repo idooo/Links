@@ -63,7 +63,17 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 Personal favourites
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)
-- [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/)
+- [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/) 
+```
+- "The output of a manager is the output of the organizational units under his or her supervision or influence"
+- "You need to plan the way a fire department plans. It cannot anticipate where the next fire will be, so it has to shape an energetic and efficient team that is capable of responding to the unanticipated as well as to any ordinary event"
+- When a person is not doing his job, there can only be two reasons for it. The person either can’t do it or won’t do it; he is either not capable or not motivated.” This insight enables a manager to dramatically focus her efforts. All you can do to improve the output of an employee is motivate and train. There is nothing else
+- It’s obvious that your decision-making depends finally on how well you comprehend the facts and issues facing your business. This is why information-gathering is so important in a manager’s life.
+- While we move about, doing what we regard as our jobs, we are role models for people in our organization
+- My day always ends when I’m tired and ready to go home, not when I’m done. I am never done. Like a housewife’s, a manager’s work is never done. There is always more to be done, more that should be done, always more than can be done.
+- A manager must keep many balls in the air at the same time and shift his energy and attention to activities that will most increase the output of his organization. In other words, he should move to the point where his leverage will be the greatest.
+- Reports are more a medium of self-discipline than a way to communicate information. Writing the report is important; reading it often is not.
+```
 
 ## Public speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
