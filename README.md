@@ -58,7 +58,14 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Increment: Teams](https://increment.com/teams/) - a few interesting articles about team building
 - [A Guide to Understanding the Role of a Mentor](https://www.thebalancecareers.com/a-guide-to-understanding-the-role-of-a-mentor-2275318)
 
-## Pubcic speaking
+
+## Books
+Personal favourites
+- [Designing Data-Intensive Applications](https://dataintensive.net/)
+- [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)
+- [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/)
+
+## Public speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
 
 ## Mentoring
