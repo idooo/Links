@@ -1,14 +1,18 @@
 # Links
 Just the way I store links
 
-## Interviews
+## Interview preparation
 - [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction)
 - [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
+- [FAANG hiring managers share how to answer behavioral interview questions](https://www.beseen.com/blog/talent/faang-managers-answer-interview-questions/)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+## Interview decision making
 - [Questions to ask on YOUR interview](https://medium.com/@cvitullo/questions-to-ask-your-interviewer-development-and-emergencies-f7fbc4519e5b)
 - [What to say when recruiters ask you to name the first number ](https://news.ycombinator.com/item?id=17776596)
 - [Ask HN: Top three questions for a startup before accepting a job offer?](https://news.ycombinator.com/item?id=19048108)
-- [FAANG hiring managers share how to answer behavioral interview questions](https://www.beseen.com/blog/talent/faang-managers-answer-interview-questions/)
+
  
 ## Management
 - [44 engineering management lessons](https://www.defmacro.org/2014/10/03/engman.html)
