@@ -82,7 +82,7 @@ Personal favourites
 
 > A manager must keep many balls in the air at the same time and shift his energy and attention to activities that will most increase the output of his organization. In other words, he should move to the point where his leverage will be the greatest.
 
-> Reports are more a medium of self-discipline than a way to communicate information. Writing the report is important; 
+> Reports are more a medium of self-discipline than a way to communicate information. writing the report is important; reading it often is not; 
 
 ## Public speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
