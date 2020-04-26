@@ -8,7 +8,7 @@ Just the way I store links
 - [FAANG hiring managers share how to answer behavioral interview questions](https://www.beseen.com/blog/talent/faang-managers-answer-interview-questions/)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-## Interview decision making
+### Interview decision making
 - [Questions to ask on YOUR interview](https://medium.com/@cvitullo/questions-to-ask-your-interviewer-development-and-emergencies-f7fbc4519e5b)
 - [What to say when recruiters ask you to name the first number ](https://news.ycombinator.com/item?id=17776596)
 - [Ask HN: Top three questions for a startup before accepting a job offer?](https://news.ycombinator.com/item?id=19048108)
