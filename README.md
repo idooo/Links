@@ -32,7 +32,6 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
              V
         Nice to have
 ```
-- [The 4 questions you should stop asking during your one-on-one meetings](https://m.signalvnoise.com/the-4-questions-you-should-stop-asking-during-your-one-on-one-meetings-ed7431da11aa)
 - [How to fail as a new engineering manager](https://news.ycombinator.com/item?id=18011381)
 - [Ask HN: What made your favorite manager/supervisor/CEO so great?](https://news.ycombinator.com/item?id=18021782)
 - [Stripe Atlas: Guide to scaling engineering organizations](https://stripe.com/atlas/guides/scaling-eng)
@@ -52,7 +51,6 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
             Discretionary
 ```
 - [Ask HN: What are the signs that you have a great manager?](https://news.ycombinator.com/item?id=20230133)
-- [Working the Weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
 - [Increasing Engineering Tempo at Splice](https://speakerdeck.com/buritica/increasing-engineering-tempo-at-splice)
 - "At the end it's the question about money and passion. We have zero passion to support IE11 so it's all about money. We suggested to estimate a monetary value of supporting IE11. The idea behind is to find values for this simple formula: (cost of support) + (opportunity cost) - (profit) - (reputation cost)"
 - [Hopefully fair performance reviews for software developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
@@ -62,6 +60,10 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Increment: Teams](https://increment.com/teams/) - a few interesting articles about team building
 - [A Guide to Understanding the Role of a Mentor](https://www.thebalancecareers.com/a-guide-to-understanding-the-role-of-a-mentor-2275318)
 
+### 1-on-1s
+- [We'll be working remote for another 6+ months. Time for a 1:1 tune-up](https://blog.nuffsaid.com/running-one-on-ones)
+- [Working the Weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
+- [The 4 questions you should stop asking during your one-on-one meetings](https://m.signalvnoise.com/the-4-questions-you-should-stop-asking-during-your-one-on-one-meetings-ed7431da11aa)
 
 ## Books
 Personal favourites
