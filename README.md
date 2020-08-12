@@ -60,6 +60,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Increment: Teams](https://increment.com/teams/) - a few interesting articles about team building
 - [A Guide to Understanding the Role of a Mentor](https://www.thebalancecareers.com/a-guide-to-understanding-the-role-of-a-mentor-2275318)
 - [Manager's Playbook](https://github.com/ksindi/managers-playbook/blob/master/README.md)
+- [My favorite product management templates](https://www.lennyrachitsky.com/p/my-favorite-templates-issue-37)
 
 ### 1-on-1s
 - [We'll be working remote for another 6+ months. Time for a 1:1 tune-up](https://blog.nuffsaid.com/running-one-on-ones)
