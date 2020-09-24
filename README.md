@@ -101,6 +101,7 @@ Personal favourites
 - [How to sleep at night having a cloud service: common Architecture Do's](https://danielsada.tech/blog/cloud-services-dos/)
 - [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 - [Ask HN: How to improve code quality while maintaining decent velocity?](https://news.ycombinator.com/item?id=21730125)
+- [The Most Important Non-Programming Skills](https://welearncode.com/most-important-nonprogramming/)
 - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/) by Dan Abramov
 > Even your favorite developers may not know many things that you know.
 
