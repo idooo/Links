@@ -62,6 +62,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Manager's Playbook](https://github.com/ksindi/managers-playbook/blob/master/README.md)
 - [My favorite product management templates](https://www.lennyrachitsky.com/p/my-favorite-templates-issue-37)
 - [Debugging engineering velocity and leading high-performing teams](https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams)
+- "The person who tells the most compelling story wins. Not the best idea. Just the story that catches people’s attention and gets them to nod their heads."
 
 ### 1-on-1s
 - [We'll be working remote for another 6+ months. Time for a 1:1 tune-up](https://blog.nuffsaid.com/running-one-on-ones)
