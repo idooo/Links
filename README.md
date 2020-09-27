@@ -61,6 +61,12 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [A Guide to Understanding the Role of a Mentor](https://www.thebalancecareers.com/a-guide-to-understanding-the-role-of-a-mentor-2275318)
 - [Manager's Playbook](https://github.com/ksindi/managers-playbook/blob/master/README.md)
 - [My favorite product management templates](https://www.lennyrachitsky.com/p/my-favorite-templates-issue-37)
+- [A primer on engineering delivery metrics](https://leaddev.com/primer-engineering-delivery-metrics)
+> Software Delivery Performance Metrics: 
+> ⌚️ Delivery lead time. How long it takes code from commit to production. 
+> 🚢 Deployment frequency. How often we are deploying to production. 
+> 🚒 Mean time to restore. How long it takes us to restore service after an incident. 
+> 🔨 Change failure rate. The percentage of changes that degrade service or require remediation.
 - [Debugging engineering velocity and leading high-performing teams](https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams)
 - "The person who tells the most compelling story wins. Not the best idea. Just the story that catches people’s attention and gets them to nod their heads."
 
