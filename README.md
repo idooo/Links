@@ -73,6 +73,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [4 Hiring Myths Common in HackerNews Discussions](https://somehowmanage.com/2020/10/27/4-hiring-myths-common-in-hackernews-discussions/)
 
 ### 1-on-1s
+- [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
 - [We'll be working remote for another 6+ months. Time for a 1:1 tune-up](https://blog.nuffsaid.com/running-one-on-ones)
 - [Working the Weekly 1:1](http://eleganthack.com/working-the-weekly-11/)
 - [The 4 questions you should stop asking during your one-on-one meetings](https://m.signalvnoise.com/the-4-questions-you-should-stop-asking-during-your-one-on-one-meetings-ed7431da11aa)
