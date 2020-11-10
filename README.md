@@ -2,6 +2,7 @@
 Just the way I store links
 
 ## Interview preparation
+- [Complete interview preparation guide](https://interviews.school/)
 - [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction)
 - [Data Structures for  Coding Interviews](https://www.interviewcake.com/article/python/data-structures-coding-interview)
