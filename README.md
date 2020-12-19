@@ -72,6 +72,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - "The person who tells the most compelling story wins. Not the best idea. Just the story that catches people’s attention and gets them to nod their heads."
 - [4 Hiring Myths Common in HackerNews Discussions](https://somehowmanage.com/2020/10/27/4-hiring-myths-common-in-hackernews-discussions/)
 - [The Power of Product Integrity](https://hbr.org/1990/11/the-power-of-product-integrity)
+- [Shitlist Driven Development](https://sirupsen.com/shitlists/)
 
 ### 1-on-1s
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
