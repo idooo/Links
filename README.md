@@ -64,15 +64,21 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [My favorite product management templates](https://www.lennyrachitsky.com/p/my-favorite-templates-issue-37)
 - [A primer on engineering delivery metrics](https://leaddev.com/primer-engineering-delivery-metrics)
 > Software Delivery Performance Metrics: 
-> ⌚️ Delivery lead time. How long it takes code from commit to production. 
-> 🚢 Deployment frequency. How often we are deploying to production. 
-> 🚒 Mean time to restore. How long it takes us to restore service after an incident. 
-> 🔨 Change failure rate. The percentage of changes that degrade service or require remediation.
+> - Delivery lead time. How long it takes code from commit to production. 
+> - Deployment frequency. How often we are deploying to production. 
+> - Mean time to restore. How long it takes us to restore service after an incident. 
+> - Change failure rate. The percentage of changes that degrade service or require remediation.
 - [Debugging engineering velocity and leading high-performing teams](https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams)
 - "The person who tells the most compelling story wins. Not the best idea. Just the story that catches people’s attention and gets them to nod their heads."
 - [4 Hiring Myths Common in HackerNews Discussions](https://somehowmanage.com/2020/10/27/4-hiring-myths-common-in-hackernews-discussions/)
 - [The Power of Product Integrity](https://hbr.org/1990/11/the-power-of-product-integrity)
 - [Shitlist Driven Development](https://sirupsen.com/shitlists/)
+> Inspirational leaders: 
+> - selectively show their weaknesses. By exposing some vulnerability, they reveal their approachability and humanity. 
+> - rely heavily on intuition to gauge the appropriate timing and course of their actions. Their ability to collect and interpret soft data helps them know just when and how to act
+> - manage employees with something we call tough empathy. Inspirational leaders empathize passionately—and realistically—with people, and they care intensely about the work employees do. 
+> - reveal their differences. They capitalize on what’s unique about themselves. You may find yourself in a top position without these qualities, but few people will want to be led by you.
+
 
 ### 1-on-1s
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
