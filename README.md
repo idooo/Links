@@ -78,6 +78,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 > - rely heavily on intuition to gauge the appropriate timing and course of their actions. Their ability to collect and interpret soft data helps them know just when and how to act
 > - manage employees with something we call tough empathy. Inspirational leaders empathize passionately—and realistically—with people, and they care intensely about the work employees do. 
 > - reveal their differences. They capitalize on what’s unique about themselves. You may find yourself in a top position without these qualities, but few people will want to be led by you.
+- [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
 
 
 ### 1-on-1s
