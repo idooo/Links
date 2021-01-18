@@ -79,6 +79,10 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 > - manage employees with something we call tough empathy. Inspirational leaders empathize passionately—and realistically—with people, and they care intensely about the work employees do. 
 > - reveal their differences. They capitalize on what’s unique about themselves. You may find yourself in a top position without these qualities, but few people will want to be led by you.
 - [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
+- [Software effort estimation is mostly fake research](https://news.ycombinator.com/item?id=25825244)
+> The issue with estimates are expectations. While nobody acknowledges it, you're not actually asked for an estimate, you're being asked for a quote.
+> The difference is when you're asked for a quote, you're asked how much you will be charging, with the expectations that you'll be willing to eat into your own margins to give a lower quote. That's why it's a negotiation, where you negotiate how much extra effort, time and headcount you're willing to give, how much tech dept you're willing to take, etc., for the privilege of getting their business.
+> If you see it for what it really is, you'll see that it works pretty well actually. The business gets more out of you for less to them. It was never about having an accurate timeline or helping with planning or prioritizing, and always about negotiating a better contract with the dev team.
 
 
 ### 1-on-1s
