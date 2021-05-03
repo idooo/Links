@@ -83,6 +83,9 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 > The issue with estimates are expectations. While nobody acknowledges it, you're not actually asked for an estimate, you're being asked for a quote.
 > The difference is when you're asked for a quote, you're asked how much you will be charging, with the expectations that you'll be willing to eat into your own margins to give a lower quote. That's why it's a negotiation, where you negotiate how much extra effort, time and headcount you're willing to give, how much tech dept you're willing to take, etc., for the privilege of getting their business.
 > If you see it for what it really is, you'll see that it works pretty well actually. The business gets more out of you for less to them. It was never about having an accurate timeline or helping with planning or prioritizing, and always about negotiating a better contract with the dev team.
+- [Tiny Wins](https://joelcalifa.com/blog/tiny-wins/)
+
+![Evaluation](https://joelcalifa.com/assets/images/blog/tiny-wins/evaluation.png)
 
 
 ### 1-on-1s
