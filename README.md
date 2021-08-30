@@ -90,6 +90,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/)
 
 ![Evaluation](https://joelcalifa.com/assets/images/blog/tiny-wins/evaluation.png)
+- [Software Development Waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
 
 
 ### 1-on-1s
