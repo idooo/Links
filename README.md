@@ -92,6 +92,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 ![Evaluation](https://joelcalifa.com/assets/images/blog/tiny-wins/evaluation.png)
 - [Software Development Waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
 - [Notes on Software Development Waste](https://hcarvalhoalves.github.io/software-development-waste/)
+- [I test in prod](https://increment.com/testing/i-test-in-production/)
 
 
 ### 1-on-1s
