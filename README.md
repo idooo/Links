@@ -141,4 +141,4 @@ Personal favourites
 > Regardless of your knowledge level, your confidence can vary greatly.
 
 > Experienced developers have valuable expertise despite knowledge gaps.
-
+- [How to mentor software engineers](https://xdg.me/mentor-engineers/)
