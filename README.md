@@ -93,6 +93,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Software Development Waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
 - [Notes on Software Development Waste](https://hcarvalhoalves.github.io/software-development-waste/)
 - [I test in prod](https://increment.com/testing/i-test-in-production/)
+- [11 Promises from a Manager](https://twitter.com/MrEchs/status/1516024322409832450)
 
 
 ### 1-on-1s
