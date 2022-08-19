@@ -11,6 +11,7 @@ Just the way I store links
 
 ### Interview decision making
 - [Questions to ask on YOUR interview](https://medium.com/@cvitullo/questions-to-ask-your-interviewer-development-and-emergencies-f7fbc4519e5b)
+- [List of developer questions to ask prospective employers during the hiring process.](https://github.com/Twipped/InterviewThis)
 - [What to say when recruiters ask you to name the first number ](https://news.ycombinator.com/item?id=17776596)
 - [Ask HN: Top three questions for a startup before accepting a job offer?](https://news.ycombinator.com/item?id=19048108)
 
