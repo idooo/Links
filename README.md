@@ -10,6 +10,7 @@ Just the way I store links
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ### Interview decision making
+- [Interview Questions to ask as a candidate](https://docs.google.com/spreadsheets/d/11DoQ-Bhvs5mfRwB0Bz6OHwoChhFVK7u_KqlbFgR-ezY/edit#gid=0)
 - [Questions to ask on YOUR interview](https://medium.com/@cvitullo/questions-to-ask-your-interviewer-development-and-emergencies-f7fbc4519e5b)
 - [List of developer questions to ask prospective employers during the hiring process.](https://github.com/Twipped/InterviewThis)
 - [What to say when recruiters ask you to name the first number ](https://news.ycombinator.com/item?id=17776596)
