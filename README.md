@@ -96,6 +96,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Notes on Software Development Waste](https://hcarvalhoalves.github.io/software-development-waste/)
 - [I test in prod](https://increment.com/testing/i-test-in-production/)
 - [11 Promises from a Manager](https://twitter.com/MrEchs/status/1516024322409832450)
+- [Spotify Engineering Culture (part 1)](https://blog.crisp.se/2014/03/27/henrikkniberg/spotify-engineering-culture-part-1) - I found the [image](https://blog.crisp.se/wp-content/uploads/2020/09/spotify-engineering-culture-part1-scaled.jpeg) quite insightful (especially alignment vs autonomy) 
 
 
 ### 1-on-1s
