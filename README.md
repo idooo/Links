@@ -126,6 +126,12 @@ Personal favourites
 
 > Reports are more a medium of self-discipline than a way to communicate information. writing the report is important; reading it often is not; 
 
+## Lectures
+- [MIT 6.824: Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+- [MIT 16.885J Aircraft Systems Engineering](https://www.youtube.com/watch?v=iiYhQtGpRhc&list=PL35721A60B7B57386)
+- [Introduction to Human Behavioral Biology / Stanford](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D)
+
 ## Public speaking
 - [What are the things keep in mind while giving/preparing for a tech talk?](https://news.ycombinator.com/item?id=17564185)
 
