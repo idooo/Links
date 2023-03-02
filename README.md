@@ -2,6 +2,7 @@
 Just the way I store links
 
 ## Interview preparation
+- [How to approach a system design interview](https://interviewing.io/guides/system-design-interview)
 - [Complete interview preparation guide](https://interviews.school/)
 - [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction)
