@@ -154,3 +154,4 @@ Personal favourites
 > Experienced developers have valuable expertise despite knowledge gaps.
 - [How to mentor software engineers](https://xdg.me/mentor-engineers/)
 - [How To Do Great Work](http://paulgraham.com/greatwork.html)
+- [Speed matters: Why working quickly is more important than it seems](https://jsomers.net/blog/speed-matters)
