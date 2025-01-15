@@ -125,7 +125,17 @@ Personal favourites
 
 > A manager must keep many balls in the air at the same time and shift his energy and attention to activities that will most increase the output of his organization. In other words, he should move to the point where his leverage will be the greatest.
 
-> Reports are more a medium of self-discipline than a way to communicate information. writing the report is important; reading it often is not; 
+> Reports are more a medium of self-discipline than a way to communicate information. writing the report is important; reading it often is not;
+- [The Fifth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline)
+> Personal Mastery - This discipline focuses on individual growth and learning. It's about continually clarifying and deepening our personal vision, focusing energy, developing patience, and seeing reality objectively. It goes beyond skills and competencies to a lifelong commitment to learning.
+
+> Mental Models - These are deeply ingrained assumptions and generalizations that influence how we understand and act in the world. The discipline involves turning the mirror inward, examining our internal pictures of the world, and making them open to scrutiny from others.
+
+> Shared Vision - This is about building a genuine commitment to a common future we seek to create. Unlike many top-down vision statements, Senge emphasizes that true shared vision emerges from personal visions and must be co-created.
+
+> Team Learning - This discipline starts with dialogue, where team members suspend assumptions and think together. It's about transforming conversational and collective thinking skills so groups can develop intelligence and capabilities greater than the sum of individual members' talents.
+
+> Systems Thinking - This is the "fifth discipline" that integrates all others. It's about seeing interrelationships rather than linear cause-effect chains, and seeing processes of change rather than snapshots. This perspective helps understand how our actions create the problems we experience.
 
 ## Lectures
 - [MIT 6.824: Distributed Systems](https://www.youtube.com/watch?v=cQP8WApzIQQ&list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
