@@ -110,7 +110,6 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 Personal favourites
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)
-- [The Fifth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline)
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/) 
 > "The output of a manager is the output of the organizational units under his or her supervision or influence"
 
