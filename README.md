@@ -97,8 +97,8 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 - [Notes on Software Development Waste](https://hcarvalhoalves.github.io/software-development-waste/)
 - [I test in prod](https://increment.com/testing/i-test-in-production/)
 - [11 Promises from a Manager](https://twitter.com/MrEchs/status/1516024322409832450)
-- [Spotify Engineering Culture (part 1)](https://blog.crisp.se/2014/03/27/henrikkniberg/spotify-engineering-culture-part-1) - I found the [image](https://blog.crisp.se/wp-content/uploads/2020/09/spotify-engineering-culture-part1-scaled.jpeg) quite insightful (especially alignment vs autonomy) 
-
+- [Spotify Engineering Culture (part 1)](https://blog.crisp.se/2014/03/27/henrikkniberg/spotify-engineering-culture-part-1) - I found the [image](https://blog.crisp.se/wp-content/uploads/2020/09/spotify-engineering-culture-part1-scaled.jpeg) quite insightful (especially alignment vs autonomy)
+- [Nine Rules for Managing Humans Managing Nuclear Reactors](https://asteriskmag.com/issues/11/nine-rules-for-managing-humans-managing-nuclear-reactors)
 
 ### 1-on-1s
 - [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c)
@@ -110,6 +110,7 @@ Get some post-its and write down each feature. Organized on the 2x2 with these a
 Personal favourites
 - [Designing Data-Intensive Applications](https://dataintensive.net/)
 - [Peopleware: Productive Projects and Teams](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113)
+- [The Fifth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline)
 - [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK/) 
 > "The output of a manager is the output of the organizational units under his or her supervision or influence"
 
